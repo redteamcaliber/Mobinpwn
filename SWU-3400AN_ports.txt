@@ -1,0 +1,13 @@
+TCP :
+	8096 -> dimclient
+	9801 -> dimclient
+	8082 -> dimclient
+	2002 -> dimclient
+	53   -> dnsmasq
+	
+UDP :
+	2048 -> dnsmasq
+	2049 -> ntpclient
+	8088 -> dimclient
+	67   -> udhcpd
+	53   -> dnsmasq

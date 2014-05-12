@@ -1,0 +1,2 @@
+Linux version 2.6.21 (release@localhost.localdomain) (gcc version 3.4.2) #340 Sat Nov 12 22:30:16 KST 2011
+uClibc-0.9.28.1
